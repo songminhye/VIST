@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LPF</string>
+    <string name="hello_nfc_please_touch_a_tag">hello_nfc_please_touch_a_tag</string>
+</resources>

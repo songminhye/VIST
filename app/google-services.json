@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854775859638",
+    "firebase_url": "https://vist-rfid.firebaseio.com",
+    "project_id": "vist-rfid",
+    "storage_bucket": "vist-rfid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854775859638:android:6cc30194fc673232",
+        "android_client_info": {
+          "package_name": "com.jhl.ativ.vist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854775859638-jq267abklls4f9pe3ia7nr10o699m0ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhl.ativ.vist",
+            "certificate_hash": "a6329b26d6928f7c859decf5e92ac20a597936ec"
+          }
+        },
+        {
+          "client_id": "854775859638-2o3803ni11phll56tcd7bamcqfar56bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz5xjnz4GS7xJro58mSKIiaX7k4uDlkHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854775859638-2o3803ni11phll56tcd7bamcqfar56bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
