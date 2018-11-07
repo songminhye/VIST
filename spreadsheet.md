@@ -1,11 +1,20 @@
 nfc에 카드가 태깅되면 spreadsheet에 저장되게한다. 
+
+
 spreadsheet에서 정보를 가져와서 firebase에 저장되게한다. 
 
+
+
 1. User 
+
+
 [spreadsheet]
 <https://docs.google.com/spreadsheets/d/1Ky18cNLftrZCcH0kuFij8dk05H6UuZFmiMSV3MeVAa0/edit?usp=sharing>
 
+
 [script]
+
+```
 function writeDataToFirebase() {
   var sheet = SpreadsheetApp.openById("1Ky18cNLftrZCcH0kuFij8dk05H6UuZFmiMSV3MeVAa0");
   var mysheet = sheet.setActiveSheet(sheet.getSheets()[0]);
@@ -26,13 +35,19 @@ function writeDataToFirebase() {
  
   base.setData("User", dataToImport);
 }
+```
 
 
 2.RFID
+
+
 [spreadsheet]
 <https://docs.google.com/spreadsheets/d/1_BvT5diDqs2XiD1tvIDaTf_a5EBuOgvmQ2MgfDprU8I/edit?usp=sharing>
 
+
 [script]
+
+```
 function writeDataToFirebase() {
   var sheet = SpreadsheetApp.openById("1_BvT5diDqs2XiD1tvIDaTf_a5EBuOgvmQ2MgfDprU8I");
   var mysheet = sheet.setActiveSheet(sheet.getSheets()[0]);
@@ -59,3 +74,4 @@ function writeDataToFirebase() {
  
   base.setData("rfid", dataToImport);
 }
+```
