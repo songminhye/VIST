@@ -6,7 +6,6 @@ Youtube 주소
 
 < https://youtu.be/vpl9_RSFvDs >
 
-====================
 ## sw융합 해커톤에 출품한 작품입니다.
 
 
