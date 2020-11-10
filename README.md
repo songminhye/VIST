@@ -13,11 +13,11 @@ Youtube 주소
 
 
 
-### 개발 플랫폼 :  안드로이드 스튜디오, Firebase, Google Spreadsheet
+## 개발 플랫폼 :  안드로이드 스튜디오, Firebase, Google Spreadsheet
 
 ### 작품명: LPF (Luggage Pick-up Fast)
 
-### 개발 개요 
+## 개발 개요 
 
  RFID를 이용하여 수하물 예상 도착 알림 서비스 어플리케이션
  
@@ -26,7 +26,7 @@ Youtube 주소
  타겟 : 연착된 비행기를 기다리는 사람
  
  
- ### 상세내용
+ ## 상세내용
  
  항공사에서 RFID를 등록한 후 어플리케이션 사용자에게 태그를 주면 
  사용자는 그 태그를 이용하여 어플리케이션에 자동으로 로그인한다. 
@@ -37,7 +37,10 @@ Youtube 주소
  
  수하물이 비행기에서 내리면서 태그가 리더기에 읽히면 사용자는 수하물이 도착한 정보를 휴대폰으로 알 수 있다.
  
- ### 작품내용
+ 
+ 
+ ## 작품내용
+ 
  
  <img src="https://postfiles.pstatic.net/MjAyMDExMTBfMjMw/MDAxNjA1MDA2NDgwMjYz.nOlI7pkiLxnw98ZQVouvEMuyzStmVGVP-cmhfUEdDXMg.8pF4BMaXAC2yGZyR1U0Kp0ZKkFl0XsYCXUKEVnIMFGIg.JPEG.alsgp_46/12.JPG?type=w773">
  
@@ -46,6 +49,7 @@ Youtube 주소
 
 
 ● 인트로 화면
+
 ● RFID 기능이 있는 기종과 없는 기종 모두 사용할 수 있도록 두 가지 선택지를 제시
 
 
@@ -90,10 +94,12 @@ NFC 등록화면 (왼)
 
  
  
-### 활용방안
+ 
+## 활용방안
 
 
-## 실생활 적용
+
+### 실생활 적용
 
 ● 실제 공항에서 위탁 수화물 관리에 적용
 
@@ -103,7 +109,7 @@ NFC 등록화면 (왼)
 
 
 
-## 기대 효과
+### 기대 효과
 
 ● 위탁 수하물을 기다리는 곳에서 편의점, 카페와 같은 편의 시설을 설치하여 공항 이용객들이 위탁 수하물이 도착하기전 편의 시설을 이용하여 수익 창출이 가능하다.
 
