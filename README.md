@@ -1,5 +1,5 @@
 # VIST
-Spreadsheet.md를 따로 읽어주세요.
+<a href="https://github.com/songminhye/VIST/blob/master/spreadsheet.md"> Spreadsheet.md </a>를 따로 읽어주세요.
 코드에 관한 설명은 주석으로 달려있습니다. 
 
 
